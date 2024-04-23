@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.div1 {
+  border-radius: 4%;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: beige;
+  height: 900px;
+}
+
+h1 {
+  text-align: center;
+}
+
+input{
+  width: 70%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 21%;
+  border-radius: 30px;
+  padding: 8px 16px;
+  background-color: #c26969;
+  color: #fff;
+  border: none;
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.completada {
+  color: green;
+}
+
+.faltante{
+  color: red;
+}
